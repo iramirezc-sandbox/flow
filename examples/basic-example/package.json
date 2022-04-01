@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "babel src/ -d lib/",
+    "flow": "flow",
     "prepublish": "yarn run build"
   },
   "keywords": [],
@@ -13,6 +14,7 @@
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.8",
-    "@babel/preset-flow": "^7.16.7"
+    "@babel/preset-flow": "^7.16.7",
+    "flow-bin": "^0.175.0"
   }
 }

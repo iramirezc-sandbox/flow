@@ -399,6 +399,11 @@ fill-range@^7.0.1:
   dependencies:
     to-regex-range "^5.0.1"
 
+flow-bin@^0.175.0:
+  version "0.175.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.175.0.tgz#ba082ac5ad2306ce62754101c710757484c082fe"
+  integrity sha512-EqIwrZFM+mQW9Iahs5pNUCMbpOkh+k2/9312/zuwyNrNRga3R4uj4M+7Lb0grM1oVYRK5TopQiKh2jWyA9x+xg==
+
 fs-readdir-recursive@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/fs-readdir-recursive/-/fs-readdir-recursive-1.1.0.tgz#e32fc030a2ccee44a6b5371308da54be0b397d27"

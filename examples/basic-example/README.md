@@ -14,6 +14,12 @@ Run `yarn install` from the root of `flow` directory.
 
 Run `yarn build`.
 
+### Flow bin
+
+First, run `yarn run flow init`.
+
+Then, run `yarn flow`.
+
 
 ## Sources:
 
