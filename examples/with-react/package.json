@@ -1,0 +1,19 @@
+{
+  "name": "with-react",
+  "version": "1.0.0",
+  "description": "Example of Flow + React (custom toolchain)",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src/ -d dis/",
+    "flow": "flow"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/preset-flow": "^7.16.7",
+    "flow-bin": "^0.175.0"
+  }
+}
