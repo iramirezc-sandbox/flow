@@ -1,0 +1,18 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "Sandbox workspace to play around with Flow (JS Type Checker)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iramirezc-sandbox/flow.git"
+  },
+  "keywords": [],
+  "author": "Isaac Ramirez <iramirezc@live.com.mx>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iramirezc-sandbox/flow/issues"
+  },
+  "homepage": "https://github.com/iramirezc-sandbox/flow#readme"
+}
