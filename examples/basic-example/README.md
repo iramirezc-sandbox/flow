@@ -1,5 +1,5 @@
 # Flow basic example
 
-## Sources:
+## Source:
 
 * [Flow installation](https://flow.org/en/docs/install/)

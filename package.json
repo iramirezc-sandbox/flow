@@ -17,6 +17,6 @@
   "homepage": "https://github.com/iramirezc-sandbox/flow#readme",
   "private": "true",
   "workspaces": [
-    "basic-example"
+    "examples/basic-example"
   ]
 }
