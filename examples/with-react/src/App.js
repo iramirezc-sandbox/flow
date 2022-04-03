@@ -1,7 +1,8 @@
+// @flow
 import React from "react";
 import { square } from "./utils";
 
-const App = () => (
+const App = (): React$Element<"div"> => (
   <div
     style={{ display: "flex", flexDirection: "column", alignItems: "center" }}
   >
