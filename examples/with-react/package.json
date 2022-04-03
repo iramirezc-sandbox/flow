@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "babel src/ -d dis/",
+    "start": "webpack serve",
     "flow": "flow"
   },
   "keywords": [],
