@@ -4,5 +4,5 @@ Sandbox workspace to play around with [Flow](https://flow.org/en/) (JS Type Chec
 
 ## Examples
 
-- [Basic Configuration & Usage Example](examples/basic-example/README.md)
-- [Flow + React + Babel + Webpack Example](examples/with-react/README.md)
+- [Flow@0.175.0 + Babel@7.17.8 | Basic Usage & Configuration](examples/basic-example)
+- [Flow@0.175.0 + React@18.0.0 + Babel@7.17.8 + Webpack@5.71.0 | Flow & React](examples/with-react)
